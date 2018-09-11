@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KioskMode</string>
+    <string name="not_device_owner">You are not the owner</string>
+    <string name="device_owner">You are admin!</string>
+    <string name="img_descricao">img descrição</string>
+    <string name="desativar_quiosque">desativar quiosque</string>
+    <string name="ativar_quiosque">ativar quiosque</string>
+</resources>
