@@ -29,6 +29,4 @@ $ adb shell dpm set-device-owner com.jonasvieira.kioskmode/.MyDeviceAdminReceive
 
 * Jonas Vieira - jonasvieira.ti@gmail.com </br>
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-JonasVieira-blue.svg)](https://br.linkedin.com/in/jonasvieirati) 
-
-[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JonasVieira-blue.svg)](https://br.linkedin.com/in/jonasvieirati)
